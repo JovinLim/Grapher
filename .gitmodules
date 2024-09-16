@@ -1,0 +1,6 @@
+[submodule "packages/ui"]
+	path = packages/ui
+	url = https://github.com/JovinLim/ts-graph-builder.git
+[submodule "packages/server"]
+	path = packages/server
+	url = https://github.com/JovinLim/ts-graph-builder-backend.git
